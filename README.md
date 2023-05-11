@@ -1,2 +1,2 @@
 # TCC
-Projeto feito em Javascript sobre Organização de Torneios Esportivos. Crie seu perfil, monte seu time e entre em um campeonato.
+Projeto feito em React sobre Organização de Torneios Esportivos. Crie seu perfil, monte seu time e dispute campeonatos.
